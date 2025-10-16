@@ -1,7 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
-### Name : BALAJI R 
-### Reg. No : 212224050004
+### Name : VEERESH V
+### Reg. No : 212224210025
 
 ## Algorithm or Steps Involved:
 <ol>
